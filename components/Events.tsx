@@ -60,7 +60,7 @@ const Events: React.FC = () => {
                   ))}
                   {calendarDays.map((day, idx) => {
                     if (!day) return <div key={idx}></div>;
-                    const isWeddingDay = day === 8;
+                    const isWeddingDay = day === 29;
                     return (
                       <div key={idx} className="relative flex items-center justify-center h-8 w-8 mx-auto">
                          {isWeddingDay && (

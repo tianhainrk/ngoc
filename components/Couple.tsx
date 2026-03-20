@@ -18,7 +18,7 @@ const Couple: React.FC = () => {
           <Reveal animation="slide-left" delay={200} className="flex flex-row items-center gap-4 w-full h-full justify-center">
              <div className="text-right flex-1">
                 <img src="https://assets.cinelove.me/templates/assets/428a253a-0bb7-412b-8861-ec12c5f06582/4d0b61d0-f9f4-4464-844b-c0f08ee19594.png" alt="Chú Rể" className="h-4 object-contain mb-1 ml-auto" />
-                <h2 className="font-dancing-script text-4xl text-gray-800 leading-none mb-1 font-semibold">Tú Nam</h2>
+                <h2 className="font-dancing-script text-4xl text-gray-800 leading-none mb-1 font-semibold">Nguyễn Ngọc</h2>
                 <div className="font-serif text-gray-600 text-[10px] leading-tight space-y-0.5">
                     <p>Bố: NGUYỄN NHƯ KHƯƠNG</p>
                     <p>Mẹ: NGUYỄN THỊ HỢP</p>
@@ -39,7 +39,7 @@ const Couple: React.FC = () => {
           <Reveal animation="slide-right" delay={400} className="flex flex-row-reverse items-center gap-4 w-full h-full justify-center">
              <div className="text-left flex-1">
                 <img src="https://assets.cinelove.me/templates/assets/428a253a-0bb7-412b-8861-ec12c5f06582/c05f1b73-52d7-4db5-b1b7-ebe97abdb927.png" alt="Cô Dâu" className="h-4 object-contain mb-1 mr-auto" />
-                <h2 className="font-dancing-script text-4xl text-gray-800 leading-none mb-1 font-semibold">Thúy An</h2>
+                <h2 className="font-dancing-script text-4xl text-gray-800 leading-none mb-1 font-semibold">Dương Diễm</h2>
                 <div className="font-serif text-gray-600 text-[10px] leading-tight space-y-0.5">
                     <p>Bố: DƯƠNG VĂN HẢI</p>
                     <p>Mẹ: DƯƠNG THỊ MƯỢT</p>
