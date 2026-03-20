@@ -58,18 +58,18 @@ cô dâu chú rể</h2>
           <div className="grid grid-cols-1 gap-8 justify-center items-center max-w-2xl mx-auto pt-4">
             <Reveal animation="slide-left" delay={100}>
               <BankCard 
-                  bankName="Vietcombank"
-                  accountName="DƯƠNG THỊ DIỄM"
-                  accountNumber="0691000412750"
-                  qrCode="https://i.ibb.co/RkBjV7rD/diem.png"
+                  bankName="MBbank"
+                  accountName="NGUYỄN NHƯ NGỌC"
+                  accountNumber="0339042903"
+                  qrCode="https://i.ibb.co/bgS9ytKk/ngoc.png"
               />
             </Reveal>
             <Reveal animation="slide-right" delay={200}>
              <BankCard 
-              bankName="MBbank"
-              accountName="NGUYỄN NHƯ NGỌC"
-              accountNumber="0339042903"
-              qrCode="https://i.ibb.co/bgS9ytKk/ngoc.png"
+              bankName="Vietcombank"
+                  accountName="DƯƠNG THỊ DIỄM"
+                  accountNumber="0691000412750"
+                  qrCode="https://i.ibb.co/RkBjV7rD/diem.png"
             />
             </Reveal>
           </div>

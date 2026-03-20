@@ -3,7 +3,7 @@ import React from 'react';
 import Reveal from './Reveal';
 
 const Location: React.FC = () => {
-  const iframeSrc = "https://maps.google.com/maps?q=20.619881, 105.873079&t=&z=16&ie=UTF8&iwloc=&output=embed";
+  const iframeSrc = "https://maps.google.com/maps?q=21.022644, 105.685623&t=&z=16&ie=UTF8&iwloc=&output=embed";
 
   return (
     <section id="location" className="w-full bg-white relative flex flex-col items-center justify-center py-4 overflow-hidden">
@@ -26,10 +26,10 @@ const Location: React.FC = () => {
             className="w-24 mb-2 object-contain shrink-0" 
           />
           <h2 className="font-serif text-sm font-bold text-gray-900 mb-1 uppercase tracking-wide shrink-0">
-            Tư Gia Nhà Gái
+            Tư Gia Nhà Trai
           </h2>
           <p className="text-gray-600 mb-3 font-sans text-xs shrink-0">
-            Phường Lê Hổ - Tỉnh Ninh Bình
+            Xã Sơn Đồng - TP. Hà Nội
           </p>
           
           <div className="w-full max-w-[200px] border border-[#8B1A1A] p-0.5 bg-white h-[120px] relative">

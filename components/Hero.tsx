@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
           src="https://www.canva.com/design/DAHEdGnaWpw/S7jZATM_hXJ9Q2XIFWkBaw/view?embed" 
           allowFullScreen={true}
           allow="fullscreen"
-          title="Thiệp Cưới Dương Diễm & Ngyễn Ngọc"
+          title="Thiệp Cưới Nguyễn Ngọc & Dương Diễm"
         >
         </iframe>
       </div>

@@ -16,7 +16,7 @@ const DateBlock: React.FC = () => {
             repeatType: "loop"
           }}
         >
-          Lễ Vu Quy
+          Lễ Thành Hôn
         </motion.h2>
         
         <div className="flex flex-col items-center text-[#8B1A1A] w-full max-w-sm">
@@ -45,7 +45,7 @@ const DateBlock: React.FC = () => {
             </div>
           </div>
           
-          <span className="font-serif text-3xl mt-1">09:00</span>
+          <span className="font-serif text-3xl mt-1">13:00</span>
         </div>
         
         <p className="text-gray-700 mt-3 font-sans text-lg">

@@ -37,7 +37,7 @@ const Countdown: React.FC = () => {
         <Reveal animation="zoom" delay={300} className="w-full max-w-2xl mx-auto mb-2 px-4">
             <div className="flex items-center justify-center text-gray-700 relative">
                 <div className="flex-1 text-right pr-4 flex flex-col justify-center">
-                    <p className="font-serif text-xl text-gray-600 tracking-widest">16h00</p>
+                    <p className="font-serif text-xl text-gray-600 tracking-widest">17h00</p>
                 </div>
                 <div className="w-[1px] h-16 bg-[#C5A059]"></div>
                 <div className="px-6 flex flex-col items-center justify-center">
